@@ -2,7 +2,6 @@
 Responsive personal website to describe myself. Created to showcase
 myself to others, so that they can know more about me and the work I do.
 
-Visit at www.anikolic.me
 
 ## Content
 The website contains a Home page, which directs the user to all other pages.
